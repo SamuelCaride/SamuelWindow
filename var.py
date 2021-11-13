@@ -1,0 +1,3 @@
+global ui
+
+global copia
